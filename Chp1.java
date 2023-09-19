@@ -30,7 +30,12 @@ public class Chp1 {
     y %=2;
     System.out.println(y);
 
-    // 
+    // Git commands for moving code from school to home
+    // git add .
+    //git commit -m "what happened"
+    // git push
+    // git clone url
+    // git pull
 
 
   
